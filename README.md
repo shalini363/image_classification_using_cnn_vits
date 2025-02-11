@@ -26,10 +26,11 @@ Install the required packages using: pip install -r requirements.txt
 
 ## How to Run
 1. Clone this repository:
-git clone https://github.com/yourusername/image-classification-cnn-vits.git
+git clone https://github.com/shalini363/image-classification-cnn-vits.git
+
 cd image-classification-cnn-vits
 
-2. Launch the Jupyter Notebook:
+3. Launch the Jupyter Notebook:
 jupyter notebook Deep_Learning_Project.ipynb
 
 4. Follow the notebook cells to:
