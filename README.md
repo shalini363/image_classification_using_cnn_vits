@@ -25,11 +25,9 @@ Install the required packages using: pip install -r requirements.txt
 - The dataset is automatically downloaded using PyTorch or TensorFlow's built-in loaders.
 
 ## How to Run
-1. Clone this repository:
-   
-git clone https://github.com/shalini363/image_classification_using_cnn_vits.git
+1. Clone this repository: git clone https://github.com/shalini363/image_classification_using_cnn_vits.git
 
-cd image-classification-cnn-vits
+2. Navigate to the project directory: cd image-classification-cnn-vits
 
 3. Launch the Jupyter Notebook:
 jupyter notebook Deep_Learning_Project.ipynb
