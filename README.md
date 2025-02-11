@@ -18,7 +18,7 @@ This project demonstrates image classification on a dataset using two state-of-t
 #### Prerequisites
 - Python 3.8 or higher
 - Essential Python libraries: NumPy, Pandas, Matplotlib, PyTorch, TensorFlow, and HuggingFace Transformers.
-Install the required packages using: pip install -r requirements.txt
+- Install the required packages using: pip install -r requirements.txt
 
 #### Dataset
 - The project uses the CIFAR-10 dataset for training and testing. CIFAR-10 is a standard dataset consisting of 60,000 32x32 color images in 10 classes.
