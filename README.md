@@ -27,7 +27,7 @@ This project demonstrates image classification on a dataset using two state-of-t
 ## How to Run
 1. Clone this repository: git clone https://github.com/shalini363/image_classification_using_cnn_vits.git
 
-2. Navigate to the project directory: cd image-classification-cnn-vits
+2. Navigate to the project directory: cd image_classification_using_cnn_vits
 
 3. Launch the Jupyter Notebook:
 jupyter notebook Deep_Learning_Project.ipynb
