@@ -26,7 +26,8 @@ Install the required packages using: pip install -r requirements.txt
 
 ## How to Run
 1. Clone this repository:
-git clone https://github.com/shalini363/image-classification-cnn-vits.git
+   
+git clone https://github.com/shalini363/image_classification_using_cnn_vits.git
 
 cd image-classification-cnn-vits
 
